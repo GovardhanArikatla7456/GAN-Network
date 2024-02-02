@@ -1,4 +1,4 @@
-# Imports
+# Importing the libraries
 import json
 import os
 from PIL import Image
